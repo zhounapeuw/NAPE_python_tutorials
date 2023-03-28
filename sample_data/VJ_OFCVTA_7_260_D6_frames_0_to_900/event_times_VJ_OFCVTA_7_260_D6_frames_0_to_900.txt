@@ -66,5 +66,5 @@ plus,521
 plus,751
 minus,35
 minus,308
-minus	580
-minus	644
+minus,580
+minus,644
