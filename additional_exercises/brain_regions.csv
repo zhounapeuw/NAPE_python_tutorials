@@ -1,0 +1,6 @@
+Brain Region,Volume (cc),Neuron Count (millions),Type
+Hippocampus,3.5,100,Cortex
+Amygdala,2.1,50,Subcortex
+Cerebellum,100.4,10000,Cortex
+Frontal Cortex,85.3,,Cortex
+Occipital Cortex,40.2,2500,Cortex
